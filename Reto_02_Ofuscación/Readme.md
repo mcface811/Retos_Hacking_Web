@@ -1,2 +1,2 @@
-La Tecnica de Ofuscacion, desde el punto de vista de un programador, consiste en disfrazar la informacion sensibles por datos que similan informacion real, en busca de que los atacantes los consideren informacion inutil.
-
+La técnica de Ofuscacion, desde el punto de vista de un programador, consiste en disfrazar la información sensible por datos dificiles de entender para el ser humano, en busca de que los atacantes consideren tales datos como inútil en los codigos fuentes (javascript) de las paginas web.
+Esta técnica, desde el punto de vista de un atacante, supone un reto porque dificulta la ingenieria inversa e incrementa el tiempo y el costo del atacante, pero con paciencia, tiempo y las herramientes necesarias para los fines, es posible vulnerar y mostrar la informaciones sensibles disfrazas con la ofuscación.
